@@ -1,4 +1,4 @@
-import CatImage from "./components/Catimage";
+import CatImage from "./components/CatImage"
 import styles from "./App.module.css";
 
 function App() {
