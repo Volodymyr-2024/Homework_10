@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect } from "react";
 import { useState } from "react";
-import styles from "./Catimage.module.css";
+import styles from "./CatImage.module.css";
 
 export default function CatImage() {
   const [catImage, setCatImage] = useState(null);
